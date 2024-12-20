@@ -1,4 +1,4 @@
-score = 0;
-lives = 3;
+score = 1460;
+lives = 1;
 
-draw_set_font(fnt_test
+draw_set_font(fnt_text);
