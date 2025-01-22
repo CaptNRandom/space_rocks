@@ -55,6 +55,7 @@
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},},
     {"id":{"name":"spr_debris","path":"sprites/spr_debris/spr_debris.yy",},},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},},
+    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

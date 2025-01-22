@@ -32,5 +32,6 @@
     {"name":"spr_asteroid_small","order":1,"path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},
     {"name":"spr_bullet","order":4,"path":"sprites/spr_bullet/spr_bullet.yy",},
     {"name":"spr_debris","order":5,"path":"sprites/spr_debris/spr_debris.yy",},
+    {"name":"Sprite7","order":6,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
