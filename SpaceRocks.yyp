@@ -44,6 +44,7 @@
     {"id":{"name":"rm_gameover","path":"rooms/rm_gameover/rm_gameover.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},},
+    {"id":{"name":"spawn_off_camera","path":"scripts/spawn_off_camera/spawn_off_camera.yy",},},
     {"id":{"name":"msc_song","path":"sounds/msc_song/msc_song.yy",},},
     {"id":{"name":"snd_die","path":"sounds/snd_die/snd_die.yy",},},
     {"id":{"name":"snd_hurt","path":"sounds/snd_hurt/snd_hurt.yy",},},
